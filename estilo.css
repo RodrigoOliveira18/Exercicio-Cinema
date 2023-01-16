@@ -1,0 +1,13 @@
+.ola{
+    background-color: tomato;
+    color:blue;
+    width: 100%;
+}
+
+section{
+    width: 100%;
+    height: 600px;
+    border: solid 2px red;
+    margin: 0 auto;
+    margin-top: 20px;
+}
